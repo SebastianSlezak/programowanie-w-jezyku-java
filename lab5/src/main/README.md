@@ -1,4 +1,4 @@
-###Wyniki z konsoli
+### Wyniki z konsoli
 <br>
 
 ```
@@ -48,7 +48,7 @@ Hibernate: select r1_0.id,r1_0.alpha,r1_0.blue,r1_0.green,r1_0.red,r1_0.height,r
 Hibernate: select t1_0.id,t1_0.a,t1_0.b,t1_0.c,t1_0.alpha,t1_0.blue,t1_0.green,t1_0.red from triangles t1_0
 ```
 
-###Zrzuty ekranu z postmana
+### Zrzuty ekranu z postmana
 <br>
 <img src="https://github.com/SebastianSlezak/user-attachments/blob/a03c70b1daba8ab2562179910012221c60ac9a08/assets/image%20copy%202.png">
 <img src="https://github.com/SebastianSlezak/user-attachments/blob/a03c70b1daba8ab2562179910012221c60ac9a08/assets/image%20copy.png">
